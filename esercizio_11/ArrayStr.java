@@ -5,6 +5,7 @@ public class ArrayStr {
         for (String num : numeri){
            
             System.out.println (num);
+            System.out.println("ciao");
         
         }
     }
